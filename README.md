@@ -19,7 +19,7 @@ Follow these steps to get the TikTok Automation Bot up and running on your machi
 
    ```sh
    git clone https://github.com/terafear/TikTok-Automation-Bot.git
-   cd tiktok-automation-bot
+   cd cd Zefoy-Automator-2025
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
@@ -49,7 +49,7 @@ Follow these steps to get the TikTok Automation Bot up and running on your machi
 To run the TikTok Automation Bot, execute the script from the command line. Ensure you're in the project directory and your virtual environment is activated (if you've set one up).
 
 ```sh
-python bot.py
+python run.py
 ```
 
 Follow the on-screen instructions to complete the captcha on [Zefoy](https://zefoy.com/) and select the services you wish to automate.
