@@ -1,80 +1,121 @@
-# TikTok Automation Bot
 
-The TikTok Automation Bot is a Python script designed to automate various interactions with TikTok profiles through [Zefoy](https://zefoy.com/). It provides a streamlined way to perform actions such as viewing videos, liking content, and more, utilizing the Selenium WebDriver for browser automation.
+<div align="center">
+   <a href="https://github.com/zebbern/Zefoy-Automator-2025">
+      <img src="https://github.com/user-attachments/assets/tiktok-automation-bot-banner" height="225" width="450" align="center" />
+   </a>
+</div>
 
-### All features available and up-to-date as of January 29, 2025
-```
-1. run Run.py
-2. Solve Captcha
-3. Ignore the popup "consent or not"
-4. Choose in the console what option you want
-5. Paste in url in console and username if u choose "comment likes"
-6. Sit back and relax and let the script do its thing it will go on repeat until stopped so u dont have to do anything now. 
-```
-## Prerequisites
+<br>
+<br>
+<br>
 
-Before you can run the TikTok Automation Bot, you need to have the following installed on your system:
+<div align="center">
+
+# **TikTok Automation Bot**  
+### Streamline TikTok Interactions with Python & Selenium  
+
+</div>
+
+---
+
+| **Features**                      | **Description**                                                              |
+|-----------------------------------|------------------------------------------------------------------------------|
+| **Automated Views**               | Automate video views on TikTok seamlessly.                                   |
+| **Likes Automation**              | Perform automated likes on specified videos or profiles.                     |
+| **Comment Likes**                 | Boost engagement by automating comment likes.                                |
+| **Dynamic Service Selection**     | Supports multiple services based on availability.                            |
+| **Continuous Execution**          | Automatically loops tasks until stopped by the user.                         |
+| **User-Friendly Console Interface**| Interactive CLI for straightforward control and input.                       |
+| **Service Reliability**           | Handles errors like interruptions and connectivity issues gracefully.        |
+
+---
+
+## **Overview**
+
+The **TikTok Automation Bot** leverages Python and Selenium WebDriver to automate TikTok interactions via [Zefoy](https://zefoy.com/). Its simple yet powerful interface makes it ideal for automating tasks like increasing views, likes, and comment interactions.
+
+### **How It Works**
+
+1. **Run the Script:** Execute `Run.py` to start the bot.  
+2. **Solve the CAPTCHA:** Manually complete the CAPTCHA on Zefoy.  
+3. **Ignore Pop-ups:** Skip consent pop-ups automatically.  
+4. **Select an Option:** Choose a desired service in the console.  
+5. **Enter Details:** Provide video URL or username for actions like comment likes.  
+6. **Relax:** The script runs continuously until manually stopped.  
+
+---
+
+## **Prerequisites**
+
+Before you begin, ensure you have the following installed:
 
 - Python 3.6 or newer
 - pip (Python package installer)
 - Google Chrome or Chromium browser
 - ChromeDriver (compatible with your browser version)
 
-## Installation
+---
 
-Follow these steps to get the TikTok Automation Bot up and running on your machine:
+## **Installation**
 
-1. **Clone the repository:**
+### 1. Clone the Repository
 
-   ```sh
-   git clone https://github.com/zebbern/Zefoy-Automator-2025.git
-   cd Zefoy-Automator-2025
-   ```
+```bash
+git clone https://github.com/zebbern/Zefoy-Automator-2025.git
+cd Zefoy-Automator-2025
+```
 
-2. **Set up a virtual environment (optional but recommended):**
+### 2. Set Up a Virtual Environment (Optional)
 
-   - For Unix/macOS:
+#### On Unix/macOS:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
-     ```sh
-     python3 -m venv venv
-     source venv/bin/activate
-     ```
+#### On Windows:
+```bash
+python -m venv venv
+.
+env\Scripts ctivate
+```
 
-   - For Windows:
+### 3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
 
-     ```sh
-     python -m venv venv
-     .\venv\Scripts\activate
-     ```
+---
 
-3. **Install the required packages:**
+## **Usage**
 
-   ```sh
-   pip install -r requirements.txt
-   ```
+To run the bot, follow these steps:
 
-## Usage
-
-To run the TikTok Automation Bot, execute the script from the command line. Ensure you're in the project directory and your virtual environment is activated (if you've set one up).
-
-```sh
+```bash
 python run.py
 ```
 
-Follow the on-screen instructions to complete the captcha on [Zefoy](https://zefoy.com/) and select the services you wish to automate.
+- Complete the CAPTCHA on [Zefoy](https://zefoy.com/).  
+- Follow the console prompts to select services and provide necessary details.  
+- Sit back and let the automation take over!
 
-## Features
+---
 
-- Automate multiple interactions with TikTok profiles via Zefoy.com.
-- User-friendly command-line interface for easy interaction.
-- Support for multiple URLs, rotating through each for automated actions.
-- Dynamic service status checking ensures that only available services are interacted with.
-- Graceful handling of internet connectivity issues and script interruptions.
+| **Input Information**             | **Description**                                                              |
+|-----------------------------------|------------------------------------------------------------------------------|
+| **Video URL/Usernames**           | Specify URLs or usernames for actions like views or comment likes.           |
+| **Repeat Mode**                   | Tasks run in a continuous loop until stopped.                                |
 
-## Acknowledgments
+---
 
-Special thanks to [Zefoy](https://zefoy.com/) for their services, which made this project possible. This script is intended for educational purposes and should be used responsibly and ethically.
+## **Acknowledgments**
 
-## Disclaimer
+A special thanks to [Zefoy](https://zefoy.com/) for providing the platform for automation.  
 
-This project is not affiliated with [TikTok](https://www.tiktok.com/), [Zefoy](https://zefoy.com/), or any related entities. It was created for educational and research purposes only. Users are advised to ensure they comply with TikTok's terms of service and use the script ethically.
+---
+
+## **Disclaimer**
+
+This project is for **educational purposes only** and is not affiliated with TikTok or Zefoy. Users are responsible for ensuring compliance with TikTok's terms of service. Use responsibly and ethically.
+
+---
