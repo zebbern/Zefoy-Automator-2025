@@ -2,7 +2,7 @@
 
 The TikTok Automation Bot is a Python script designed to automate various interactions with TikTok profiles through [Zefoy](https://zefoy.com/). It provides a streamlined way to perform actions such as viewing videos, liking content, and more, utilizing the Selenium WebDriver for browser automation.
 
-### All options are available and functioning correctly as for this moment! 
+### All options are available and functioning correctly as of 29th January 2025
 ```
 1. run Run.py
 2. Solve Captcha
