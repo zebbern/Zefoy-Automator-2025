@@ -72,8 +72,7 @@ source venv/bin/activate
 #### On Windows:
 ```bash
 python -m venv venv
-.
-env\Scripts ctivate
+.\venv\Scripts\activate
 ```
 
 ### 3. Install Requirements
