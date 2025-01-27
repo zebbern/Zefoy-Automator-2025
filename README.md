@@ -1,10 +1,9 @@
 
 <div align="center">
    <a href="https://github.com/zebbern/Zefoy-Automator-2025">
-      <img src="https://github.com/zebbern/zebbern/raw/main/test9.gif" height="225" width="450" align="center" />
+      <img src="https://github.com/zebbern/zebbern/raw/main/test9.gif" height="200" width="20%" align="center" />
    </a>
 </div>
-
 <br>
 <br>
 <br>
