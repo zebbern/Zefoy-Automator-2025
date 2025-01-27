@@ -36,7 +36,7 @@ The **TikTok Automation Bot** leverages Python and Selenium WebDriver to automat
 2. **Solve the CAPTCHA:** Manually complete the CAPTCHA on Zefoy.  
 3. **Ignore Pop-ups:** Skip consent pop-ups automatically.  
 4. **Select an Option:** Choose a desired service in the console.  
-5. **Enter Details:** Provide video URL or username for actions like comment likes.  
+5. **Enter Details:** Provide video URL or username if "comment likes" is chosen.  
 6. **Relax:** The script runs continuously until manually stopped.  
 
 ---
