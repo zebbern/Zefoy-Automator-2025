@@ -18,8 +18,8 @@ Follow these steps to get the TikTok Automation Bot up and running on your machi
 1. **Clone the repository:**
 
    ```sh
-   [git clone https://github.com/terafear/TikTok-Automation-Bot.git](https://github.com/zebbern/Zefoy-Automator-2025.git)
-   cd cd Zefoy-Automator-2025
+   git clone https://github.com/terafear/TikTok-Automation-Bot.git
+   cd Zefoy-Automator-2025
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
