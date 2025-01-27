@@ -4,9 +4,6 @@
       <img src="https://github.com/zebbern/zebbern/raw/main/test9.gif" height="200" width="20%" align="center" />
    </a>
 </div>
-<br>
-<br>
-<br>
 
 <div align="center">
 
