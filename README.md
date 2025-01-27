@@ -3,8 +3,14 @@
 The TikTok Automation Bot is a Python script designed to automate various interactions with TikTok profiles through [Zefoy](https://zefoy.com/). It provides a streamlined way to perform actions such as viewing videos, liking content, and more, utilizing the Selenium WebDriver for browser automation.
 
 ### All options are available and functioning correctly as for this moment! 
-
-
+```
+1. run Run.py
+2. Solve Captcha
+3. Ignore the popup "consent or not"
+4. Choose in the console what option you want
+5. Paste in url in console and username if u choose "comment likes"
+6. Sit back and relax and let the script do its thing it will go on repeat until stopped so u dont have to do anything now. 
+```
 ## Prerequisites
 
 Before you can run the TikTok Automation Bot, you need to have the following installed on your system:
