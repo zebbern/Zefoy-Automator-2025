@@ -110,6 +110,7 @@ A special thanks to [Zefoy](https://zefoy.com/) for providing the platform for a
 
 ## **Disclaimer**
 
+> [!WARNING] 
 This project is for **educational purposes only** and is not affiliated with TikTok or Zefoy. Users are responsible for ensuring compliance with TikTok's terms of service. Use responsibly and ethically.
 
 ---
