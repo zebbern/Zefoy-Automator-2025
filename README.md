@@ -3,14 +3,12 @@
    <a href="https://github.com/zebbern/Zefoy-Automator-2025">
       <img src="https://github.com/zebbern/zebbern/raw/main/test9.gif" height="200" width="20%" align="center" />
    </a>
-</div>
 
-<div align="center">
 
 # **TikTok Automation Bot**  
 ### Streamline TikTok Interactions with Python & Selenium  
 
-</div>
+
 
 ---
 
@@ -25,6 +23,7 @@
 | **Service Reliability**           | Handles errors like interruptions and connectivity issues gracefully.        |
 
 ---
+</div>
 
 ## **Overview**
 
