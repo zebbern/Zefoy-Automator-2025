@@ -55,8 +55,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/zebbern/Zefoy-Automator-2025.git
-cd Zefoy-Automator-2025
+git clone https://github.com/zebbern/Zefoy-Automation.git
+cd Zefoy-Automation
 ```
 
 ### 2. Set Up a Virtual Environment (Optional)
