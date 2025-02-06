@@ -5,9 +5,8 @@
    </a>
 
 
-# **TikTok Automation Bot**  
-### Streamline TikTok Interactions with Python & Selenium  
-
+# **Zefoy Automation Bot**  
+### Automate Zefoy Interactions With No Effort
 
 
 ---
