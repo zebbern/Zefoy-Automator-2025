@@ -1,7 +1,7 @@
 
 <div align="center">
    <a href="https://github.com/zebbern/Zefoy-Automator-2025">
-      <img src="https://github.com/zebbern/zebbern/raw/main/test9.gif" height="200" width="20%" align="center" />
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
    </a>
 
 
