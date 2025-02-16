@@ -4,9 +4,7 @@
       <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
    </a>
 
-
-# **Zefoy Automation Bot**  
-### Automate Zefoy Interactions With No Effort
+## Automate Zefoy Interactions With No Effort
 
 
 ---
