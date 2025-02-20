@@ -1,4 +1,4 @@
-// Made by github.com/zebbern
+# Made by github.com/zebbern
  
 import time
 import random
